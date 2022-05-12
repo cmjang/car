@@ -1,0 +1,25 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "editor.language.brackets": false,
+        "C_Cpp.errorSquiggles": "Disabled",
+        "files.associations": {
+            "files.autoGuessEncoding": " true",
+            "zf_pwm.h": "c",
+            "headfile.h": "c"
+        }
+    },
+    "extensions": {},
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    },
+    "tasks": {
+        "version": "2.0.0",
+        "tasks": []
+    }
+}
